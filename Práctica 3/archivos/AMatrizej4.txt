@@ -1,0 +1,5 @@
+VCE1	X	   X	    X	    CM
+X	    M1	 X	    G1	   X
+X	    X	   X	    X	     X
+X	    M2	 X	    X	     X
+G2	  M3	 X	    X	     X

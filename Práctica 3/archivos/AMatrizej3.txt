@@ -1,0 +1,5 @@
+VCEs	X	X	X	CM
+X	M2	X	G1	X
+X	X	X	X	X
+X	M3	X	X	B
+G2	M1	X	X	X

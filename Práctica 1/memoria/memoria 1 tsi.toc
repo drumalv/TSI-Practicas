@@ -1,0 +1,5 @@
+\babel@toc {american}{}
+\contentsline {section}{\numberline {1}Introducción}{3}%
+\contentsline {section}{\numberline {2}Comportamiento Deliberativo}{3}%
+\contentsline {subsection}{\numberline {2.1}Algoritmo $A^*$}{3}%
+\contentsline {subsection}{\numberline {2.2}Orden de gemas a recorrer}{4}%
